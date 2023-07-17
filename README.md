@@ -1,6 +1,6 @@
 # DAEGU APARTMENT ANALYSIS
 
-
+<img width="664" alt="image" src="https://github.com/Jeremyanthony04/Daegu_Apartment_Analysis/assets/102398975/37b48f8a-bb04-475c-9048-5194c74f5a59">
 
 
 Daegu City or known as the Metropolitan City of Daegu is a city surrounded by mountains in South Korea with a population of more than 2.5 million people. 
